@@ -15,6 +15,18 @@
 
 ---
 
+<p align="center">
+  <img src="assets/escalation-01-overview.png" width="100%" alt="Partner Care escalation tracker"><br>
+  <sub><b>Partner Care — Escalation Tracker</b> · 1,344 cases · 525 accounts · 74 agents · 2023–2025</sub>
+</p>
+
+<p align="center">
+  <img src="assets/warehouse-hero.png" width="49%" align="top" alt="Warehouse controlling dashboard">
+  <img src="assets/escalation-02-reasons-and-source.png" width="49%" align="top" alt="Escalation reasons and source">
+</p>
+
+---
+
 ## 👋 About
 
 I'm **Rohit Shinde**, a BI / Data Analyst based in Berlin. This repository collects two
